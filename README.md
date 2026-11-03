@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+### This is another heading
+
+Hello this is new text  
+press space twice to create a new line
+
+* thing one
+* thing two
+
+### About Me
+* 3rd Year Math + CS @ UBC
+* Spocos @ nwPlus
+
+
+
 <!--
 **corbin-boop/corbin-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
