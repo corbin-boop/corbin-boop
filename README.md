@@ -12,7 +12,10 @@ press space twice to create a new line
 * 3rd Year Math + CS @ UBC
 * Spocos @ nwPlus
 
-
+### Hobbies
+* Hobby 1
+* Hobby 2
+* Hobby 3
 
 <!--
 **corbin-boop/corbin-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
